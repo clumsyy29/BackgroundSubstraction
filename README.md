@@ -1,1 +1,1 @@
-# BackgroundSubstraction
+# Background Subtraction merupakan sebuah teknik pemrosesan citra yang digunakan dalam pengolahan gambar dan pengenalan objek. Tujuannya adalah untuk memisahkan atau menghapus latar belakang (background) dari sebuah gambar atau video, sehingga objek utama yang ada di depan latar belakang tersebut dapat lebih mudah diidentifikasi.
